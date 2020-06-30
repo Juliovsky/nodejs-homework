@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliovsky/nodejs-homework.git"
+  },
+  "author": "Yulia <ybelova24@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliovsky/nodejs-homework/issues"
+  },
+  "homepage": "https://github.com/Juliovsky/nodejs-homework#readme",
+  "dependencies": {
+    "uuid": "^8.2.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "keywords": []
+}
