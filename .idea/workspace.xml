@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7884fc0-5143-450b-86d4-3e4d7ae32c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="02-express" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dipSof1t39hVLQqThMOIPVZO86" />
@@ -60,6 +64,8 @@
       <workItem from="1592917770740" duration="26801000" />
       <workItem from="1595839438690" duration="139000" />
       <workItem from="1595839611464" duration="144000" />
+      <workItem from="1595849488391" duration="165000" />
+      <workItem from="1595849656195" duration="69000" />
     </task>
     <servers />
   </component>
